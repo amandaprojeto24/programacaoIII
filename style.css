@@ -19,4 +19,11 @@ body {
   background-color: var(--cor-de-fundo);
   c, sans-serif;
 }
+.fundo-preto{
+  background: black;
+  color: white;
+}
+.botao{
+  padding: 2em; 
+}
 
